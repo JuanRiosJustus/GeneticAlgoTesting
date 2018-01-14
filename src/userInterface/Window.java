@@ -20,7 +20,6 @@ public class Window extends Application
     private Canvas canvas;
     private FlowPane pane;
     private Scene scene;
-    private Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
     private final int windowHeight = 720;
     private final int windowWidth = 1280;
 
