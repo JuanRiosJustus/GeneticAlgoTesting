@@ -12,7 +12,7 @@ public class DNA {
     private ArrayList<Vector> genes;
     private Random variance;
     private final int strandSize = 400;
-    private final double force = 0.5;
+    private final double force = 0.2;
     private boolean prized;
     private Color col;
 
